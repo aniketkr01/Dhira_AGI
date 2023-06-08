@@ -26,7 +26,12 @@ The integration of various AI models demonstrates a forward-thinking approach, l
 
 
 ## Model Structure
-![model_design image](./images/model.png "model design")
+![model_design image](./resources/images/architecture.png "model design")
+
+## Screenshoot
+![email_service](./resources/images/email_trial.png "email service")
+![music_service](./resources/images/musical_trial.png "spotify music")
+![sheet_service](./resources/images/sheet_trial.png "google sheet")
 
 ## Built With
 
@@ -74,6 +79,6 @@ Project Link: [https://github.com/aniketkr01/Dhira_AGI/](https://github.com/anik
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/aniket-kumar-469465231/
-[product-screenshot]: images/homepage.png
+[product-screenshot]: resources/images/homepage.png
 [python]: https://img.freepik.com/free-icon/snakes_318-368381.jpg
 [python-url]: https://pypi.org/
