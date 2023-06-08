@@ -59,7 +59,7 @@ The integration of various AI models demonstrates a forward-thinking approach, l
 ## Upcoming Goals
 1. Improving GUI.
 2. Including more image processing related features.
-3. Reducing bugs and errors.
+3. Reducing bugs and errors such as inconsistent with normal search that does not invlove any task.
 4. Making software platform independent.
 
 <!-- CONTACT -->
@@ -67,7 +67,7 @@ The integration of various AI models demonstrates a forward-thinking approach, l
 
 Your Name -  aniketkr08903@gmail.com
 
-Project Link: [https://github.com/aniketkr01/Dhira-The-Intelligent-Bot/](https://github.com/aniketkr01/Dhira-The-Intelligent-Bot/)
+Project Link: [https://github.com/aniketkr01/Dhira_AGI/](https://github.com/aniketkr01/Dhira_AGI)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
