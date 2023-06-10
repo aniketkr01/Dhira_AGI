@@ -30,9 +30,14 @@ The integration of various AI models demonstrates a forward-thinking approach, l
 ![model_design image](./resources/images/architecture.jpg "model design")
 
 ## Screenshoot
-![email_service](./resources/images/email_trial.png "email service")
+<div align='center'><img src='./resources/images/email_trial.png' alt='email service' height="400"></div>
+<div align='center'><img src='./resources/images/musical_trial.png' alt='spotify music' height="400"></div>
+<div align='center'><img src='./resources/images/sheet_trial.png' alt='google sheet' height="400"></div>
+<!-- ![email_service](./resources/images/email_trial.png "email service")
 ![music_service](./resources/images/musical_trial.png "spotify music")
-![sheet_service](./resources/images/sheet_trial.png "google sheet")
+![sheet_service](./resources/images/sheet_trial.png "google sheet") -->
+
+## Demo
 
 ## Built With
 
