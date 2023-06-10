@@ -38,7 +38,8 @@ The integration of various AI models demonstrates a forward-thinking approach, l
 ![sheet_service](./resources/images/sheet_trial.png "google sheet") -->
 
 ## Demo
-
+[![Email & Music Demo](./resources/images/preview1.png)](https://drive.google.com/file/d/1OrHzA-UX8uedrn077C-LoKJTel4F_UxC/view?usp=sharing)
+[![Google Sheet](./resources/images/preview2.png)](https://drive.google.com/file/d/1Os1-qySyCDyctFq9etApNCpbL6YoYQ0y/view?usp=sharing)
 ## Built With
 
 * Python
