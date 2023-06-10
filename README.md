@@ -7,7 +7,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]()
+<p align='center'><img src='./resources/images/homepage.png'></p>
+<!-- [![Product Name Screen Shot][product-screenshot]]() -->
 By leveraging the power of artificial intelligence, this project aims to drastically reduce the time and financial resources required for redundant industrial work. Automating redundant tasks such as making word reports, sending mail, updating sheets, etc. will enhance productivity, increase efficiency, and allow businesses to focus more on critical aspects of their operations.
 By providing voice-enabled interactions, it offers an inclusive and accessible solution that empowers disabled people to accomplish tasks independently and efficiently.
 A user-friendly graphical user interface to interact with the system either through text or voice.
