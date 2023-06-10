@@ -26,7 +26,7 @@ The integration of various AI models demonstrates a forward-thinking approach, l
 
 
 ## Model Structure
-![model_design image](./resources/images/architecture.png "model design")
+![model_design image](./resources/images/architecture.jpg "model design")
 
 ## Screenshoot
 ![email_service](./resources/images/email_trial.png "email service")
