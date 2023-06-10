@@ -46,6 +46,7 @@ The integration of various AI models demonstrates a forward-thinking approach, l
 * customTkinter
 * NLP
 * REST APIs
+* OpenAI
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
