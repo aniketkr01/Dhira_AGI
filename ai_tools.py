@@ -641,7 +641,7 @@ class WordWriter(BaseTool):
         auto.write(content)
         auto.hotkey("ctrl","s")
         time.sleep(2)
-        bx, by = auto.locateCenterOnScreen("D:\\Assistant\\resources\\images\\save.png")
+        bx, by = auto.locateCenterOnScreen("./resources/images/save.png")
         auto.click(bx, by)
         return "Success!. Task Completed !. Save and Close"
     
