@@ -76,8 +76,8 @@ class MusicIdentify(BaseTool):
         """use the tool"""
         tools = [SelectMusic()]
         llm = ChatOpenAI(temperature=0.4)
-        music = initialize_agent(tools, llm, agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION).run(query)
-        play_music(music)
+        # music = initialize_agent(tools, llm, agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION).run(query) Taking more time for decision hence commented
+        play_music(query)
         return "Task completed !"
         
     async def _arun(self, query: str)-> str:
@@ -87,7 +87,7 @@ class MusicIdentify(BaseTool):
 def play_music(query: str):
     keys = auth.keys["spotify"]
     oauth = spotipy.SpotifyOAuth(client_id=keys["clientID"],client_secret=keys["clientSecret"],redirect_uri=keys["redirect_uri"])
-    token_dict = oauth.get_cached_token()
+    token_dict = oauth.get_access_token()
     token = token_dict["access_token"]
     spotifyObject = spotipy.Spotify(auth=token)
     res = spotifyObject.search(query, 1, 0, "track")
