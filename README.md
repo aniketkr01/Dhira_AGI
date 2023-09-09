@@ -72,8 +72,8 @@ The integration of various AI models demonstrates a forward-thinking approach, l
 ## Upcoming Goals
 1. Improving GUI.
 2. Including more image processing related features.
-3. Reducing bugs and errors such as inconsistent with normal search that does not invlove any task.
-4. Making software platform independent.
+3. Improving accuracy more than 90%.
+4. Developing mobile/web application.
 
 <!-- CONTACT -->
 ## Contact
